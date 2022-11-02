@@ -33,19 +33,19 @@ async def cbstart(_, query: CallbackQuery):
                 [InlineKeyboardButton("• طريقة الاستخدام •", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("• الاوامر •", callback_data="cbbasic"),
-                    InlineKeyboardButton("• المطور •", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("• مطور البوت •", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
                         "• جروب الدعم •", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "𝐬𝐨𝐮𝐫𝐜𝐞 𝐚𝐥𝐚𝐳𝐢𝐳a²¹🐼", url=f"https://t.me/BANDA1M"
+                        "𝐬𝐨𝐮𝐫𝐜𝐞 ²¹🧛🏻", url=f"https://t.me/Xl441"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "دبـدو໑بـٰههہ⁽💕🐾₎⇡", url="https://t.me/BANDA2M"
+                        "دبـدو໑بـٰههہ⁽💕🐾₎⇡", url="https://t.me/Xl441"
                     )
                 ],
             ]
